@@ -1,4 +1,5 @@
 # Markdown Editor
+Write Markdown in the Editor box. The preview will appear in the Preview box. A sample Markdown is provided.
 
 # Built with
 
