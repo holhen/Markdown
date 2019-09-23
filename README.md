@@ -3,6 +3,7 @@
 # Built with
 
  - React
+ - Marked.js
  - JavaScript
  - CSS
  
